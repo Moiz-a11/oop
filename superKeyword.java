@@ -1,6 +1,6 @@
 public class superKeyword {
     public static void main(String[] args) {
-        Horse h = new Horse();
+        Horse h = new Horse(); // h is obj so assigning memory by new keyword and h stores address and points to obj memory  
        System.out.println(h.color); 
         
         
